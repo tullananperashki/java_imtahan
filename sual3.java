@@ -1,3 +1,4 @@
+
 //3.Üç tam ədəd verilmişdir. Onların bərabəryanlı üçbucaq əmələ gətirdiyini yoxlayan proqram tərtib edin.
 import java.util.Scanner;
 
@@ -23,8 +24,7 @@ public class sual3 {
                 System.out.println("Terefler muxtelifdir...");
             }
 
-        }
-        else{
+        } else {
             System.out.println("Verilen qiymetler ucbucaqin tereflerine uygun gelmir...");
         }
 
